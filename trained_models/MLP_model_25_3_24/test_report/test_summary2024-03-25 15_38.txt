@@ -1,0 +1,5 @@
+Report Time: 2024-03-25 15:38
+Number of words: 10000
+Number of correct words: 9634
+Number of incorrect words: 366
+Accuracy: 96.34%
