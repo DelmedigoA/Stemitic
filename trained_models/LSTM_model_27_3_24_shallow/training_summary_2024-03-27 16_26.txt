@@ -1,0 +1,43 @@
+Report Time: 2024-03-27 16:26
+model type: full_char LSTM 
+max word length: 8
+
+Hyper-parameters:
+num_epochs: 10
+loss_func: mean_squared_error
+lr: 0.001
+batch_size: 64
+test_size: 0.15
+activation_func: relu
+output_activation: linear
+validation_split: 0.1
+random_state: 42
+
+Architechture:
+
+Model score:
+Test Loss: 0.00171, Test Accuracy: 96.45%
+
+Training logs:
+<keras.src.callbacks.History object at 0x7f62f843dc00>Epoch 1/10
+10023/10023 [==============================] - 103s 10ms/step - loss: 0.0097 - accuracy: 0.7905 - val_loss: 0.0047 - val_accuracy: 0.9160
+Epoch 2/10
+10023/10023 [==============================] - 100s 10ms/step - loss: 0.0039 - accuracy: 0.9295 - val_loss: 0.0034 - val_accuracy: 0.9358
+Epoch 3/10
+10023/10023 [==============================] - 96s 10ms/step - loss: 0.0030 - accuracy: 0.9422 - val_loss: 0.0028 - val_accuracy: 0.9449
+Epoch 4/10
+10023/10023 [==============================] - 99s 10ms/step - loss: 0.0026 - accuracy: 0.9491 - val_loss: 0.0025 - val_accuracy: 0.9499
+Epoch 5/10
+10023/10023 [==============================] - 98s 10ms/step - loss: 0.0023 - accuracy: 0.9537 - val_loss: 0.0022 - val_accuracy: 0.9544
+Epoch 6/10
+10023/10023 [==============================] - 100s 10ms/step - loss: 0.0021 - accuracy: 0.9571 - val_loss: 0.0021 - val_accuracy: 0.9565
+Epoch 7/10
+10023/10023 [==============================] - 98s 10ms/step - loss: 0.0020 - accuracy: 0.9596 - val_loss: 0.0020 - val_accuracy: 0.9594
+Epoch 8/10
+10023/10023 [==============================] - 99s 10ms/step - loss: 0.0019 - accuracy: 0.9615 - val_loss: 0.0019 - val_accuracy: 0.9604
+Epoch 9/10
+10023/10023 [==============================] - 100s 10ms/step - loss: 0.0018 - accuracy: 0.9633 - val_loss: 0.0018 - val_accuracy: 0.9616
+Epoch 10/10
+10023/10023 [==============================] - 99s 10ms/step - loss: 0.0017 - accuracy: 0.9647 - val_loss: 0.0017 - val_accuracy: 0.9638
+3931/3931 [==============================] - 15s 4ms/step - loss: 0.0017 - accuracy: 0.9645
+Test Loss: 0.0017065048450604081, Test Accuracy: 0.9645209908485413
