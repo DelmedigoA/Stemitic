@@ -4,10 +4,10 @@ Number of correct words: 9169
 Number of incorrect words: 831
 Accuracy: 91.69%
 Pairwise Accuracy: 96.32%
-0 letters accuracy: 9169
-1 letters accuracy: 605
-2 letters accuracy: 179
-3 letters accuracy: 47
+3 letters accuracy: 9169
+2 letters accuracy: 605
+1 letters accuracy: 179
+0 letters accuracy: 47
 Only some root letteres in word percent: 18.88%
 Only some root letteres in word accuracy: 78.76%
 All root letters in word accuracy: 94.70%
