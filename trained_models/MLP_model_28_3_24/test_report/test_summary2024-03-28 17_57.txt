@@ -1,0 +1,13 @@
+Report Time: 2024-03-28 17:57
+Number of words: 10000
+Number of correct words: 6626
+Number of incorrect words: 3374
+Accuracy: 66.26%
+Pairwise Accuracy: 86.35%
+3 letters accuracy: 6626
+2 letters accuracy: 2726
+1 letters accuracy: 575
+0 letters accuracy: 73
+Only some root letteres in word percent: 19.34%
+Only some root letteres in word accuracy: 60.13%
+All root letters in word accuracy: 67.73%
